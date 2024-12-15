@@ -1,4 +1,1 @@
-This site is still in devlopment.
-
-
-(c)Linkshare 2022
+This project is in active development
